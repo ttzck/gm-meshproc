@@ -1,0 +1,13 @@
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\Grid.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\Grid.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\MarchingCubes.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\MarchingCubes.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\PointSet.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\PointSet.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\kDTree.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\kDTree.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction-hoppe.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\reconstruction-hoppe.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction-poisson.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\reconstruction-poisson.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\02-decimation\decimation.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\decimation.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\03-curvature\curvature.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\curvature.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\04-smoothing\smoothing.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\smoothing.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\05-parameterization\parameterization.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\parameterization.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\Viewer.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\Viewer.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\laplace.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\laplace.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\main.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Debug\main.obj

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\MarchingCubes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\PointSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\kDTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction-hoppe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction-poisson.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\02-decimation\decimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\03-curvature\curvature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\04-smoothing\smoothing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\05-parameterization\parameterization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\Viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\laplace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jnttz\Desktop\gm-meshproc\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\Grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\MarchingCubes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\PointSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\kDTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\02-decimation\Quadric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\02-decimation\decimation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\03-curvature\curvature.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\04-smoothing\smoothing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\05-parameterization\parameterization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\Viewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jnttz\Desktop\gm-meshproc\src\laplace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jnttz\Desktop\gm-meshproc\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C6DFF548-F041-338F-84EC-2C13C815A100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{18674478-48DD-3C59-8DFB-39F7EADE73A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

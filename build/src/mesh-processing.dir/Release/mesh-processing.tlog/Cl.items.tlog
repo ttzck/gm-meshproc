@@ -1,0 +1,13 @@
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\Grid.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\Grid.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\MarchingCubes.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\MarchingCubes.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\PointSet.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\PointSet.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\kDTree.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\kDTree.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction-hoppe.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\reconstruction-hoppe.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\01-reconstruction\reconstruction-poisson.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\reconstruction-poisson.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\02-decimation\decimation.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\decimation.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\03-curvature\curvature.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\curvature.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\04-smoothing\smoothing.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\smoothing.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\05-parameterization\parameterization.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\parameterization.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\Viewer.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\Viewer.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\laplace.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\laplace.obj
+C:\Users\jnttz\Desktop\gm-meshproc\src\main.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\src\mesh-processing.dir\Release\main.obj

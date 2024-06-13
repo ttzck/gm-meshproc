@@ -1,0 +1,2 @@
+C:\Users\jnttz\Desktop\gm-meshproc\gm-meshproc\build\external\rply\rply.dir\Debug\rply.lib
+C:\Users\jnttz\Desktop\gm-meshproc\build\external\rply\rply.dir\Debug\rply.lib

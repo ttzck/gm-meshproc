@@ -1,0 +1,12 @@
+C:/Users/jnttz/Desktop/gm-meshproc/build/CMakeFiles/glew.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/stb_image/CMakeFiles/stb_image.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/rply/CMakeFiles/rply.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/imgui/CMakeFiles/imgui.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/pmp/CMakeFiles/pmp.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/external/poisson/CMakeFiles/poisson.dir
+C:/Users/jnttz/Desktop/gm-meshproc/build/src/CMakeFiles/mesh-processing.dir

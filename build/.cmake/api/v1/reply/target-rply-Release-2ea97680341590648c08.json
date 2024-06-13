@@ -1,0 +1,235 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "external/rply/rply.dir/Release/rply.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_compile_options",
+			"add_definitions",
+			"add_compile_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"external/rply/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 111,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/wd4267"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "/wd4244"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "/wd4305"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "/wd4005"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "/wd4700"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "MESH_DIRECTORY=\"C:/Users/jnttz/Desktop/gm-meshproc/data/meshes/\""
+				},
+				{
+					"backtrace" : 9,
+					"define" : "NOMINMAX"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "POINTSET_DIRECTORY=\"C:/Users/jnttz/Desktop/gm-meshproc/data/pointsets/\""
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_USE_MATH_DEFINES"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/jnttz/Desktop/gm-meshproc/external/stb_image"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/jnttz/Desktop/gm-meshproc/external/glfw/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/jnttz/Desktop/gm-meshproc/external/glfw/deps"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/jnttz/Desktop/gm-meshproc/external/rply"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "rply::@d5bf3367be413bb20459",
+	"name" : "rply",
+	"paths" : 
+	{
+		"build" : "external/rply",
+		"source" : "external/rply"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "external/rply/rply.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/rply/rply.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/rply/rplyfile.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

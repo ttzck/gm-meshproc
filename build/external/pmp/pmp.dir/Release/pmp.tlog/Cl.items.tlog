@@ -1,0 +1,11 @@
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\SurfaceMesh.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\SurfaceMesh.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\SurfaceMeshIO.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\SurfaceMeshIO.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\algorithms\DistancePointTriangle.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\DistancePointTriangle.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\algorithms\SurfaceNormals.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\SurfaceNormals.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\algorithms\TriangleKdTree.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\TriangleKdTree.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\algorithms\decimation.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\decimation.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\visualization\MeshViewer.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\MeshViewer.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\visualization\Shader.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\Shader.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\visualization\SurfaceMeshGL.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\SurfaceMeshGL.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\visualization\TrackballViewer.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\TrackballViewer.obj
+C:\Users\jnttz\Desktop\gm-meshproc\external\pmp\visualization\Window.cpp;C:\Users\jnttz\Desktop\gm-meshproc\build\external\pmp\pmp.dir\Release\Window.obj
