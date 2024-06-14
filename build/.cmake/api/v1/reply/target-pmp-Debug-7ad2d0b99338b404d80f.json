@@ -12,7 +12,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Release/pmp.lib"
+			"path" : "Debug/pmp.lib"
 		}
 	],
 	"backtrace" : 1,
@@ -150,7 +150,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17"
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17"
 				},
 				{
 					"backtrace" : 4,
@@ -264,7 +264,7 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@ca12bac854c2ac6b2230"
+			"id" : "stb_image::@4945d4a35979c2c9c488"
 		},
 		{
 			"backtrace" : 2,
@@ -272,7 +272,7 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "stb_image::@4945d4a35979c2c9c488"
+			"id" : "glfw::@ca12bac854c2ac6b2230"
 		},
 		{
 			"backtrace" : 2,

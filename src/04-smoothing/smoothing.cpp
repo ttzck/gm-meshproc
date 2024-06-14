@@ -35,6 +35,26 @@ void explicit_smoothing(SurfaceMesh& mesh,
      *   - experiment with different time-steps; when does it blow up?
      **/
 
+    for(auto e : mesh.edges()) {
+        eweight[e] = use_uniform_laplace ? 1 : cotan(mesh, e);
+    }
+
+    for(unsigned int i = 0; i < N; i++) {
+        for (auto v : mesh.vertices()) {
+            laplace[v] = Point(0,0,0);
+            for (auto h : mesh.halfedges(v)) {
+                    laplace[v] += eweight[mesh.edge(h)] * (points[mesh.to_vertex(h)] - points[v]);
+            }
+            laplace[v] /= area(mesh, v);
+        }
+        
+        for (auto v : mesh.vertices()) {
+            points[v] += laplace[v] * 0.00001;
+        }
+    }
+
+
+
 
     // clean-up custom properties
     mesh.remove_edge_property(eweight);
